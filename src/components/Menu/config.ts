@@ -1,11 +1,11 @@
 import { MenuEntry } from '@pancakeswap-libs/uikit'
 
 const config: MenuEntry[] = [
-  {
-    label: 'Home',
-    icon: 'HomeIcon',
-    href: 'https://pancake-test.pages.dev',
-  },
+  // {
+  //   label: 'Home',
+  //   icon: 'HomeIcon',
+  //   href: 'https://pancake-test.pages.dev',
+  // },
   {
     label: 'Trade',
     icon: 'TradeIcon',
@@ -22,9 +22,9 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Pools',
-    icon: 'PoolIcon',
-    href: 'https://pancake-test.pages.dev/pools',
+    label: 'Farms',
+    icon: 'FarmIcon',
+    href: 'https://sb-farm.web.app/farms',
   }
 ]
 

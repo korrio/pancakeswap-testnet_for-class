@@ -13,35 +13,27 @@
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
-      "address": "0x094616f0bdfb0b526bd735bf66eca0ad254ca81f",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png"
 
     },
     {
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "address": "0x0fab15194b0256569111cf96d8eac5ec5ae9adc5",
+      "address": "0x322e4612792dcdd60a50f9802c823e7b51ef1e31",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
     },
     {
-      "name": "PancakeSwap Token",
-      "symbol": "CAKE",
-      "address": "0x9bf197b24d5ED707fea72eb244E9A1CD848578Ef",
+      "name": "Jandra Token",
+      "symbol": "JUTC",
+      "address": "0x1b9E9F0DCFaD211D68404a09aF612e4b89649CCe",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
-    },
-    {
-      "name": "Foo Token",
-      "symbol": "FOO",
-      "address": "0xf10b0689202ff39e72f2e05a8368813b601b781f",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xc40c9a843e1c6d01b7578284a9028854f6683b1b.png"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/Qmdgn2XBR4XiGUYcaFc9wCjGr5snsYeqwBa5LZsaMwDUNv"
     }
   ]
 }
